@@ -1,0 +1,166 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    max-width: 1440px;
+    width: 100%;
+    min-height: 924px;
+    color: #ffffff;
+    font-family: "Work Sans", serif;
+ 
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub-main{
+    max-width: 1280px;
+    width: 100%;
+}
+
+.featured{
+    width: 1280px;
+height: 40px;
+font-family: Work Sans;
+font-size:18px;
+font-weight: 600;
+line-height: 40px;
+text-align: left;
+color:  #1F2937;
+
+margin-top: 48px;
+margin-left: 4px;
+margin-right: 80px;
+margin-bottom: 40px;
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 32px;
+}
+.frame{
+    max-width: 1,280px;
+min-height:  532px;
+margin-top: 40px;
+
+}
+
+.img{
+    max-width: 624px;
+    min-height: 250px;
+  margin-bottom: 32px;  
+    
+}
+
+.image{
+    max-width: 624px;
+min-height:250px;
+
+
+
+}
+
+.rame{
+    gap: 32px;
+}
+
+.image{
+    max-width: 624px;
+    min-height: 250px;
+  gap: 32px;
+  margin-bottom: 32px;
+ 
+ 
+}
+
+.imgss{
+    max-width: 624px;
+    min-height:250px;
+   
+}
+
+
+
+
+.frame-lay{
+    max-width: 1280px;
+    min-height: 72px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.demand{
+    max-width: 560px;
+    min-height: 72px;
+}
+
+.demand p{
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #4B5563;
+
+}
+
+
+.demand-2{
+    max-width: 560px;
+    min-height: 72px;
+}
+
+.demand-2 p{
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #4B5563;
+}
+
+
+.frame-lay{
+    max-width: 1280px;
+    min-height: 72px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.demand{
+    max-width: 560px;
+    min-height: 72px;
+}
+
+.demand p{
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #4B5563;
+
+}
+
+
+.demand-2{
+    max-width: 560px;
+    min-height: 72px;
+}
+
+.demand-2 p{
+    font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #4B5563;
+}

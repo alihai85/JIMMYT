@@ -104,6 +104,8 @@ flex-direction: column;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 14px;
+    
     
     
     
@@ -113,6 +115,7 @@ flex-direction: column;
     max-width: 560px;
     min-height: 72px;
     gap: 20px;
+    
 }
 
 .demand p{
@@ -129,6 +132,7 @@ color: #4B5563;
 .demand-2{
     max-width: 560px;
     min-height: 72px;
+
 }
 
 .demand-2 p{
@@ -157,6 +161,11 @@ color: #4B5563;
     max-width: 560px;
     min-height: 72px;
    
+   
+}
+
+.demand img{
+    margin-top: 14px;
 }
 
 .demand p{
@@ -173,6 +182,11 @@ color: #4B5563;
 .demand-2{
     max-width: 560px;
     min-height: 72px;
+    
+}
+
+.demand-2 img{
+    margin-top: 14px;
 }
 
 .demand-2 p{

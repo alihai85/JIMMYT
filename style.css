@@ -42,21 +42,16 @@ margin-bottom: 40px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 40px;
-    margin-bottom: -58px;
-    margin-top: 40px;
+    gap: 32px;
+    margin-bottom:40px;
+    
 }
 
-.stamp{
-    gap: 32px;
-    
-    
-}
 
 .stamp{
     max-width: 624px;
     min-height: 250px;
-  margin-bottom: 32px;  
+  margin-bottom: 29px;  
   gap: 32px;
   
 
@@ -70,10 +65,8 @@ gap: 32px;
 margin-bottom: 32px;
 display: flex;
 }
-.rame{
-    gap: 32px;
 
-}
+
 .don{
     max-width: 624px;
     min-height: 250px;
@@ -89,7 +82,7 @@ flex-direction: column;
     max-width: 624px;
     min-height:250px;
 margin-left: -18px;
-    margin-bottom: 32px;
+    margin-bottom: 26px;
     
    
 }
@@ -152,7 +145,7 @@ color: #4B5563;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 18px;
+    margin-top: 32px;
    
    
 }

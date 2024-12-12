@@ -166,6 +166,7 @@ color: #4B5563;
 
 .demand img{
     margin-top: 18px;
+    gap: 20px;
 }
 
 .demand p{
@@ -187,6 +188,7 @@ color: #4B5563;
 
 .demand-2 img{
     margin-top: 18px;
+    gap: 20px;
 }
 
 .demand-2 p{

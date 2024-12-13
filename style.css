@@ -62,7 +62,7 @@ margin-bottom: 40px;
     max-width: 624px;
 min-height:250px;
 gap: 32px;
-margin-bottom: 32px;
+
 display: flex;
 }
 
@@ -71,7 +71,6 @@ display: flex;
     max-width: 624px;
     min-height: 250px;
 
-  margin-bottom: 32px;
  gap: 32px;
 display: flex;
 flex-direction: column;
@@ -82,7 +81,7 @@ flex-direction: column;
     max-width: 624px;
     min-height:250px;
 margin-left: 2px;
-    margin-bottom: 26px;
+    
     
    
 }

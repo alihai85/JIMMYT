@@ -47,7 +47,7 @@ margin-bottom: 40px;
 .stamp{
     max-width: 624px;
     min-height: 250px;
-  margin-bottom: 29px;  
+  
   gap: 32px;
   
 
@@ -73,10 +73,10 @@ flex-direction: column;
  
 }
 
-.images{
+.teaser{
     max-width: 624px;
     min-height:250px;
-margin-left: 2px;
+
     
     
    

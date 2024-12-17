@@ -58,6 +58,7 @@ margin-bottom: 40px;
     max-width: 624px;
 min-height:250px;
 gap: 32px;
+margin-top: 32px;
 
 display: flex;
 }
@@ -92,7 +93,7 @@ flex-direction: column;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-   margin-top: 32px;
+   
    
     
     

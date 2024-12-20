@@ -72,7 +72,7 @@ margin-bottom: 3px;
  gap: 32px;
 display: flex;
 flex-direction: column;
- margin-top: 3px;
+ 
  margin-left: 32px;
 }
 
@@ -80,7 +80,7 @@ flex-direction: column;
     max-width: 624px;
     min-height:250px;
 margin-left: 25px;
-gap: 32px;
+margin-top: 4px;
    
     
    

@@ -41,7 +41,6 @@ margin-top: 48px;
     justify-content: space-between;
     
   margin-bottom: 40px;
-    
 }
 
 
@@ -100,6 +99,7 @@ margin-left: 32px;
 
 .demand{
     max-width: 560px;
+    width: 100%;
     min-height: 72px;
     gap: 20px;
     margin-right: 22px;
@@ -134,7 +134,7 @@ color: #4B5563;
 
 
 .frame-lay{
-    max-width: 1280px;
+    max-width: 1280px;width: 100%;
     min-height: 72px;
     align-items: center;
     display: flex;
@@ -147,7 +147,7 @@ color: #4B5563;
 .demand{
     max-width: 560px;
     min-height: 72px;
-   
+    
    
 } 
 .demand img{
